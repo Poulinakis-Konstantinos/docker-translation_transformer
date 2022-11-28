@@ -3,7 +3,7 @@
 This is a simple application of using the transformers library for English to German
 translation task. The application is then packaged in a docker container.
 
-For more details you can check the accompanying blog post. 
+For more details you can check the accompanying [blog post](https://medium.com/codex/build-an-english-to-german-translator-with-docker-and-huggingface-transformers-in-15-minutes-with-ml-8386135a3fa9). 
 
 The repo was built for educational purposes. Translation is not very accurate and 
 an error related to printing non-ascii character may cause fatal error. 
