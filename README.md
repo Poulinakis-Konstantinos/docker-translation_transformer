@@ -20,3 +20,7 @@ If you manage to solve it please let me know ;D .
 4. Write sentences in the terminal's input.
 
 5. If you solve the ascii related error let me know.
+
+<!-- <a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lczeczolyer0yze9wzlc" alt="trackgit-views" />
+</a>-->
